@@ -1,4 +1,6 @@
 # main links
 main:
+  - title: "Music"
+    url: /music/
   - title: "Me"
     url: /me/
