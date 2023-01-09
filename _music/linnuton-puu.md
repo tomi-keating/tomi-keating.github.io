@@ -11,36 +11,107 @@ tags:
 
 {% highlight tex %}
 Nauruasi vailla
+Without your laugh (Lacking your laugh)
+
 Olen se linnuton puu
+I am the birdless tree
+
 Lehtiä täynnä
+Full of leaves
+
 Linnuton puu
+Birdless tree
+
+
 Lämpöäsi vailla
+Without your warmth
+
 Olen vain ylpeä kuu
+I am just a proud moon 
+
 Loistavan kylmä
+Shiningly / Wonderfully / Excellently
+
 Ylpeä kuu
+Proud moon 
+
+
 Jos sinun rakkautesi
+If your love
+
 Tulee ja asuttaa aution puun
+Comes and inhabits the deserted tree
+
 Jos tulet oksalleni
+If you come to my branch
+
 Annan sun levätä vierelläni
+I'll let you rest next to me 
+
+
 Sanojasi vailla
+without your words
+
 Olen vain suunnaton tie
+I'm just a directionless / enormous / vast road
+
 Ilman viittaa
+Without a sign 
+
 Suunnaton tie
+Directionless road
+
+
 Tekojasi vailla
+Without your actions
+
 Olen se savinen maa
+I'm the clayey earth 
+
 Ilman viljaa
+Without grain
+
 Savinen maa
+Clayey earth
+
+
 Jos kerrot rakkautesi
+If you tell (about) your love
+
 Niin perille löytävä on tämä tie
+Then this road will be finding its destination
+
 Jos tahdot oksalleni
+If you want to be on my branch
+
 Niin kasvatan viljavan paikan
+Then i'll grow a grainfull / fertile place
+
 Jossa linnuton puu
+Where a birdless tree
+
 Linnuton puu ottaa varsillensa
+Birdless tree will take / accept to its branches 
+
+
 Jos kerrot rakkautesi
+If you tell (about) your love
+
 Niin perille löytävä on tämä tie
+Then this road will be finding its destination
+
 Jos tahdot oksalleni
+If you want to be on my branch
+
 Niin kasvatan viljavan paikan
-Joss linnuton puu
+Then i'll grow a grainfull / fertile place
+
+Jossa linnuton puu
+Where a birdless tree
+
 Linnuton puu ottaa varsillensa
+Birdless tree will take / accept to its branches 
+
 Sinut asumaan
+You to live
 {% endhighlight %}
